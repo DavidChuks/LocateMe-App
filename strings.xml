@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocateMe</string>
+    <string name="textMeButton">Text Me</string>
+    <string name="mapMeButton">Map Me</string>
+    <string name="locatTextView">Current Location</string>
+    <string name="defaultLocation">Detecting...</string>
+    <string name="longitudeText">Longitude</string>
+    <string name="latitudeText">Latitude</string>
+    <string name="permDenied1">Permission</string>
+    <string name="permDenied2">Denied</string>
+</resources>
