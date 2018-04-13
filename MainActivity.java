@@ -337,7 +337,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
 
     private void sendSMS() {
 
-        String phoneNo = "+250734598970";
+        String phoneNo = "+000000000"; //enter phone number here
         String message = "My location is: "+latitude +" Latitude & " + longitude+" Longitude. ";
 
         String smsSent = "SMS_SENT";
